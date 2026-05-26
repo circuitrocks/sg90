@@ -1,4 +1,4 @@
-# SG90 Servo — micro servo
+# SG90 — micro servo
 
 Sample sketch for the **[SG90 Micro Servo](https://circuit.rocks/search?q=SG90)**, sold by [Circuitrocks](https://circuit.rocks/).
 
