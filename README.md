@@ -42,7 +42,7 @@ This example sweeps the servo from 0° to 180° and back, using the built-in Ard
 
 ## Datasheet
 
-[SG90 datasheet (Tower Pro, PDF)](http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf)
+[SG90 datasheet & pinout (docs.circuit.rocks)](https://docs.circuit.rocks/motors/sg90-servo/)
 
 ## Troubleshooting
 
